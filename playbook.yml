@@ -20,3 +20,4 @@
       - groovy
       - hipchat
       - build-blocker-plugin
+      - build-flow-plugin
