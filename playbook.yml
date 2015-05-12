@@ -21,3 +21,5 @@
       - hipchat
       - build-blocker-plugin
       - build-flow-plugin
+      - gradle
+      - cloudbees-folder
